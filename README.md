@@ -56,7 +56,7 @@ O notebook apresenta as etapas de tratamento, validação e análise exploratór
 
 Nele são realizadas análises de sentimentos, categorias, prioridades, identificação de casos críticos e geração de indicadores de Customer Experience (CX).
 
-📓 **[Acessar notebook Python](analise_feedbacks_cx.ipynb.ipynb)**
+📓 **[Acessar notebook Python](analise_feedbacks_cx.ipynb)**
 
 ### 4. Dashboard no Power BI
 Desenvolvimento de um painel interativo para acompanhamento dos principais indicadores de Customer Experience, com filtros por canal, sentimento e categoria.
