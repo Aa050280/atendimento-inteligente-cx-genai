@@ -86,6 +86,8 @@ Esse resultado demonstra a importância de analisar os canais separadamente, con
 
 O dashboard permite acompanhar os indicadores de Customer Experience e explorar os feedbacks por diferentes perspectivas.
 
+![Dashboard de Customer Experience](dashboard_cx.png)
+
 **Principais recursos:**
 - Indicadores de desempenho (KPIs).
 - Distribuição de sentimentos.
