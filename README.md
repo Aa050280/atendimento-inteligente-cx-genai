@@ -50,6 +50,14 @@ Utilização de Python para explorar os dados, calcular indicadores e verificar 
 - Análise dos feedbacks por canal.
 - Identificação e validação da regra de classificação de casos críticos.
 
+## Notebook Python
+
+O notebook apresenta as etapas de tratamento, validação e análise exploratória dos feedbacks de clientes, utilizando Python e Pandas.
+
+Nele são realizadas análises de sentimentos, categorias, prioridades, identificação de casos críticos e geração de indicadores de Customer Experience (CX).
+
+📓 **[Acessar notebook Python](analise_feedbacks_cx.ipynb)**
+
 ### 4. Dashboard no Power BI
 Desenvolvimento de um painel interativo para acompanhamento dos principais indicadores de Customer Experience, com filtros por canal, sentimento e categoria.
 
@@ -86,8 +94,6 @@ Esse resultado demonstra a importância de analisar os canais separadamente, con
 
 O dashboard permite acompanhar os indicadores de Customer Experience e explorar os feedbacks por diferentes perspectivas.
 
-![Dashboard de Customer Experience](dashboard_cx.JPG)
-
 **Principais recursos:**
 - Indicadores de desempenho (KPIs).
 - Distribuição de sentimentos.
@@ -96,7 +102,7 @@ O dashboard permite acompanhar os indicadores de Customer Experience e explorar 
 - Distribuição por prioridade.
 - Filtros interativos.
 
-<!-- Insira aqui uma imagem do dashboard -->
+![Dashboard de Customer Experience](dashboard_cx.JPG)
 
 ## Aprendizados e próximos passos
 
